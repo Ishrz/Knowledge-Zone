@@ -1,9 +1,9 @@
-const AllCourses = async (req,res) =>{
+const allCourses = async (req,res) =>{
 
 }
 
 
 
 module.exports = {
-    AllCourses
+    allCourses
 }
